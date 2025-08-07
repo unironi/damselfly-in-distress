@@ -10,4 +10,5 @@ Implemented a path tracer that includes Cook Torrance BRDF, specular GGX and dif
 Things I'm still working on:
 - flapping wings animation
 - more noticeable volumetric effects
+- will likely have to do some optimizations for the pathtracer
 
